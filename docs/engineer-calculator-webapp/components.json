@@ -1,0 +1,100 @@
+{
+  "components": [
+    {
+      "name": "Calculator Component (Main UI)",
+      "implementation_lines": 150,
+      "test_lines": 200,
+      "language": "typescript",
+      "description": "Main Calculator component with Display and ButtonGrid",
+      "milestone": "M1"
+    },
+    {
+      "name": "Calculator Engine (Math.js)",
+      "implementation_lines": 200,
+      "test_lines": 300,
+      "language": "typescript",
+      "description": "Core calculation engine using Math.js library",
+      "milestone": "M1"
+    },
+    {
+      "name": "Zustand Store & State Management",
+      "implementation_lines": 150,
+      "test_lines": 150,
+      "language": "typescript",
+      "description": "Global state management with Zustand",
+      "milestone": "M1"
+    },
+    {
+      "name": "Button Grid & UI Components",
+      "implementation_lines": 180,
+      "test_lines": 120,
+      "language": "typescript",
+      "description": "Calculator button grid and reusable UI components",
+      "milestone": "M1"
+    },
+    {
+      "name": "Responsive Layout & Styling",
+      "implementation_lines": 100,
+      "test_lines": 80,
+      "language": "typescript",
+      "description": "Tailwind CSS responsive design and layout components",
+      "milestone": "M1"
+    },
+    {
+      "name": "Keyboard Input Handler",
+      "implementation_lines": 120,
+      "test_lines": 150,
+      "language": "typescript",
+      "description": "Keyboard event handling and shortcuts",
+      "milestone": "M1"
+    },
+    {
+      "name": "History Panel & Persistence",
+      "implementation_lines": 180,
+      "test_lines": 200,
+      "language": "typescript",
+      "description": "History panel UI and localStorage service",
+      "milestone": "M2"
+    },
+    {
+      "name": "Statistics Calculator",
+      "implementation_lines": 200,
+      "test_lines": 250,
+      "language": "typescript",
+      "description": "Statistical functions and data input interface",
+      "milestone": "M2"
+    },
+    {
+      "name": "History Service (localStorage)",
+      "implementation_lines": 150,
+      "test_lines": 200,
+      "language": "typescript",
+      "description": "localStorage service for history persistence",
+      "milestone": "M2"
+    },
+    {
+      "name": "Unit Converter UI",
+      "implementation_lines": 180,
+      "test_lines": 150,
+      "language": "typescript",
+      "description": "Unit conversion interface and category selector",
+      "milestone": "M3"
+    },
+    {
+      "name": "Unit Conversion Engine",
+      "implementation_lines": 200,
+      "test_lines": 300,
+      "language": "typescript",
+      "description": "Unit conversion logic and conversion tables",
+      "milestone": "M3"
+    },
+    {
+      "name": "Input Validation & Error Handling",
+      "implementation_lines": 120,
+      "test_lines": 180,
+      "language": "typescript",
+      "description": "Zod validation schemas and error handling utilities",
+      "milestone": "M1"
+    }
+  ]
+}

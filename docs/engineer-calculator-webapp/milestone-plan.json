@@ -1,0 +1,120 @@
+{
+  "target_limit": 100000,
+  "milestones": [
+    {
+      "components": [
+        {
+          "name": "Calculator Component (Main UI)",
+          "implementation_lines": 150,
+          "test_lines": 200,
+          "implementation_tokens": 1345,
+          "test_tokens": 2691,
+          "total_tokens": 4036,
+          "percentage_of_limit": 4.036
+        },
+        {
+          "name": "Calculator Engine (Math.js)",
+          "implementation_lines": 200,
+          "test_lines": 300,
+          "implementation_tokens": 1793,
+          "test_tokens": 4036,
+          "total_tokens": 5829,
+          "percentage_of_limit": 5.829
+        },
+        {
+          "name": "Zustand Store & State Management",
+          "implementation_lines": 150,
+          "test_lines": 150,
+          "implementation_tokens": 1345,
+          "test_tokens": 2018,
+          "total_tokens": 3363,
+          "percentage_of_limit": 3.363
+        },
+        {
+          "name": "Button Grid & UI Components",
+          "implementation_lines": 180,
+          "test_lines": 120,
+          "implementation_tokens": 1614,
+          "test_tokens": 1614,
+          "total_tokens": 3228,
+          "percentage_of_limit": 3.228
+        },
+        {
+          "name": "Responsive Layout & Styling",
+          "implementation_lines": 100,
+          "test_lines": 80,
+          "implementation_tokens": 896,
+          "test_tokens": 1076,
+          "total_tokens": 1972,
+          "percentage_of_limit": 1.9720000000000002
+        },
+        {
+          "name": "Keyboard Input Handler",
+          "implementation_lines": 120,
+          "test_lines": 150,
+          "implementation_tokens": 1076,
+          "test_tokens": 2018,
+          "total_tokens": 3094,
+          "percentage_of_limit": 3.094
+        },
+        {
+          "name": "History Panel & Persistence",
+          "implementation_lines": 180,
+          "test_lines": 200,
+          "implementation_tokens": 1614,
+          "test_tokens": 2691,
+          "total_tokens": 4305,
+          "percentage_of_limit": 4.305
+        },
+        {
+          "name": "Statistics Calculator",
+          "implementation_lines": 200,
+          "test_lines": 250,
+          "implementation_tokens": 1793,
+          "test_tokens": 3363,
+          "total_tokens": 5156,
+          "percentage_of_limit": 5.156000000000001
+        },
+        {
+          "name": "History Service (localStorage)",
+          "implementation_lines": 150,
+          "test_lines": 200,
+          "implementation_tokens": 1345,
+          "test_tokens": 2691,
+          "total_tokens": 4036,
+          "percentage_of_limit": 4.036
+        },
+        {
+          "name": "Unit Converter UI",
+          "implementation_lines": 180,
+          "test_lines": 150,
+          "implementation_tokens": 1614,
+          "test_tokens": 2018,
+          "total_tokens": 3632,
+          "percentage_of_limit": 3.6319999999999997
+        },
+        {
+          "name": "Unit Conversion Engine",
+          "implementation_lines": 200,
+          "test_lines": 300,
+          "implementation_tokens": 1793,
+          "test_tokens": 4036,
+          "total_tokens": 5829,
+          "percentage_of_limit": 5.829
+        },
+        {
+          "name": "Input Validation & Error Handling",
+          "implementation_lines": 120,
+          "test_lines": 180,
+          "implementation_tokens": 1076,
+          "test_tokens": 2421,
+          "total_tokens": 3497,
+          "percentage_of_limit": 3.497
+        }
+      ],
+      "total_tokens": 47977,
+      "total_lines": 4210,
+      "name": "M1"
+    }
+  ]
+}
